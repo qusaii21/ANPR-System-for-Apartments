@@ -1,5 +1,3 @@
-# ANPR-System-for-Apartments
-
 # Licence-Plate-Detection-and-Recognition
 Steps: 
 1. Get_numberPLTfromTxt.ipynb  is the major file for running Streamlit app, run last two lines only 
